@@ -1,5 +1,6 @@
 {
   "User": {
-    "title": { "string": {} }
+     {"id": 1, "name": "Cesar Mora", "username": "Cesar", "email": "cesar@gmail.com"},
+     {"id": 2, "name": "Daniel Godoy", "username": "Dani", "email": "Dani@gmail.com"}
   }
 }
