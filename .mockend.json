@@ -1,5 +1,15 @@
-{
-  "User": {
-    "title": { "string": {} }
+ {
+ "users" : {
+ {"id": 1, "name": "Cesar Mora", "username": "Cesar", "email": "cesar@gmail.com"},
+ {"id": 2, "name": "Daniel Godoy", "username": "Dani", "email": "Dani@gmail.com"}
+ },
+  "posts": {
+    { "id": 1, "title": "Post 1", "body": "Etcetera", "userId": 1},
+    { "id": 2, "title": "Post 2", "body": "AAA", "userId": 1},
+    { "id": 3, "title": "Post 3", "body": "aaaaaaaaaaaa", "userId": 2}
+  },
+  "comments": {
+    { "id": 1, "body": "come comment", "PostId": 1},
+    { "id": 2, "body": "come comment", "PostId": 1}
   }
-}
+ }
