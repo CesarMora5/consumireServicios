@@ -1,7 +1,7 @@
  {
  "users" : {
- {"id": 1, "name": "Cesar Mora", "username"; "Cesar", "email": "cesar@gmail.com"},
- {"id": 2, "name": "Daniel Godoy", "username"; "Dani", "email": "Dani@gmail.com"}
+ {"id": 1, "name": "Cesar Mora", "username": "Cesar", "email": "cesar@gmail.com"},
+ {"id": 2, "name": "Daniel Godoy", "username": "Dani", "email": "Dani@gmail.com"}
  }.
   "posts": {
     { "id": 1, "title": "Post 1", "body": "Etcetera", "userId": 1},
